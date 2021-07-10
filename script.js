@@ -84,7 +84,7 @@ startGame();
            clearInterval(x);
            document.getElementById("demo").innerHTML = "OVER";
 
-           window.alert("Your enthusiasm level was 10%  👀 !!");
+           window.alert("Your score is 🍊🍊 "+score+" 🍊🍊");
 
          }
        }, 1000);
